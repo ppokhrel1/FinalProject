@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/pre-dexed/debug/classes-174178da0bfcfd78359bde912bdd611afd62d1ac.jar" />
+    </item>
+    <item
+        jar="/Users/abhishek/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5c7e9da9c0a3064f49b51ddb34ca37758be133ee.jar" />
+    </item>
+    <item
+        jar="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/pre-dexed/debug/classes-b4781b917ac1574b29d366bb167683b1be2a9a2d.jar" />
+    </item>
+    <item
+        jar="/Users/abhishek/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-28bd5fe7df2310bbd25c0e157de1430dcaf2f6e6.jar" />
+    </item>
+    <item
+        jar="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/abhishek/Desktop/Final_Project/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-545c4f76dbad140617cef6dfec0d7f9a435fe874.jar" />
+    </item>
+
+</items>
